@@ -13,6 +13,9 @@ target-version = "py311"
 select = ["E", "F", "I", "W"]
 ignore = ["E501"]
 
+[tool.ruff.lint.isort]
+known-third-party = ["googleapiclient", "google", "streamlit", "fastapi", "uvicorn", "dotenv", "arize", "openinference"]
+
 [tool.ruff.format]
 quote-style = "double"
 
