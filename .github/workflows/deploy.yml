@@ -70,7 +70,7 @@ jobs:
             GOOGLE_CLOUD_PROJECT=${{ env.PROJECT_ID }}
             GOOGLE_CLOUD_LOCATION=${{ env.REGION }}
             GOOGLE_GENAI_USE_VERTEXAI=True
-            SERVE_WEB_INTERFACE=true
+            ARIZE_PROJECT_NAME=videogames-assistant
           secrets: |
             ARIZE_API_KEY=ARIZE_API_KEY:latest
             ARIZE_SPACE_ID=ARIZE_SPACE_ID:latest
