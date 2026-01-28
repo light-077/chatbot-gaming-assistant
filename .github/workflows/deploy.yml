@@ -74,6 +74,7 @@ jobs:
           secrets: |
             ARIZE_API_KEY=ARIZE_API_KEY:latest
             ARIZE_SPACE_ID=ARIZE_SPACE_ID:latest
+            YOUTUBE_API_KEY=YOUTUBE_API_KEY:latest
 
       - name: Output URL
         run: |
