@@ -32,14 +32,19 @@ def setup_tracing(project_name: str | None = None) -> None:
         print("[Tracing] ARIZE_SPACE_ID and ARIZE_API_KEY not set, skipping.")
         return
 
+    print(f"[Tracing] space_id length={len(space_id)}, "
+          f"api_key starts with={api_key[:6]}...")
+
     try:
         from arize.otel import register
+        from arize.otel import Transport
         from openinference.instrumentation.google_adk import GoogleADKInstrumentor
 
         tracer_provider = register(
             space_id=space_id,
             api_key=api_key,
             project_name=project_name,
+            transport=Transport.HTTP,
         )
 
         GoogleADKInstrumentor().instrument(tracer_provider=tracer_provider)
@@ -49,3 +54,5 @@ def setup_tracing(project_name: str | None = None) -> None:
 
     except Exception as e:
         print(f"[Tracing] Failed to initialize Arize AX: {e}")
+        import traceback
+        traceback.print_exc()

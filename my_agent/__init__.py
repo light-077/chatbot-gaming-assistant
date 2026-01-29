@@ -11,11 +11,10 @@ import os
 if os.getenv("GOOGLE_CLOUD_PROJECT"):
     try:
         from observability.tracing import setup_tracing
-
         setup_tracing()
     except ImportError:
         pass  # Tracing dependencies not installed
 
-from my_agent.agent import root_agent
+from .agent import root_agent
 
 __all__ = ["root_agent"]
