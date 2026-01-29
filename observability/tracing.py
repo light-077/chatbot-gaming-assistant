@@ -38,14 +38,14 @@ def setup_tracing(project_name: str | None = None) -> None:
     )
 
     try:
-        from arize.otel import Transport, register
+        from arize.otel import register
         from openinference.instrumentation.google_adk import GoogleADKInstrumentor
 
         tracer_provider = register(
             space_id=space_id,
             api_key=api_key,
             project_name=project_name,
-            transport=Transport.HTTP,
+            endpoint="https://otlp.arize.com/v1",
         )
 
         GoogleADKInstrumentor().instrument(tracer_provider=tracer_provider)
